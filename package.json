@@ -11,7 +11,7 @@
   "author": "Zuev Roman",
   "license": "ISC",
   "dependencies": {
-    "config": "^3.2.5",
+    "config": "^3.3.8",
     "cors": "^2.8.5",
     "debug": "latest",
     "express": "^4.17.1",
